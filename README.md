@@ -6,7 +6,8 @@
 ###### hello
 
 <!-- Italics -->
-# lol
+*lol*
+_lol_
 
 <!-- Strong -->
 **no problem** 
